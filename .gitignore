@@ -13,6 +13,7 @@ ntuser.ini
 .claude/file-history/
 .claude/history.jsonl
 .claude/cache/
+.claude/projects/**/tool-results/
 
 # Application data and caches
 AppData/
