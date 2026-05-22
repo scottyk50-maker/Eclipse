@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+<project name="common-targets" basedir=".">
+	<property environment="env" />
+	<!--
+	<property name="svn_root" value="${env.SVN_ROOT}" />
+	<property name="svn_revision" value="${env.SVN_REVISION}" />
+	-->
+	<property name="output.dir" location="./output" />
+	<property name="src.dir" value="./src" />
+	<property name="build.dir" value="./build" />
+	<property name="lib.dir" value="../lib" />
+	<!--<property name="vendor.dir" value="../vendor_jars" />-->
+
+	<property name="vendor.dir" location="D:/source/conversionTeam/libs/3rdPartyLibs"/>
+	
+		
+	<!--<target name="buildonly" depends="clean, createBuildDir, doJAVAC, doCopy" description="Performs builds only."> -->
+	<target name="buildonly" depends="clean, createBuildDir, doJAVAC, doJAR, doMoveToLib" description="Performs builds only.">
+		<echo message="buildonly completed." />
+	</target>
+
+	
+	<target name="createBuildDir" depends="createOutputDir">
+		<mkdir dir="${build.dir}" />
+		<!--<mkdir dir="${lib.dir}" />-->
+	</target>
+
+	<target name="createOutputDir" unless="doJAVAC.skip">
+		<mkdir dir="${output.dir}" />
+	</target>
+
+	
+	<target name="clean" depends="clean-output">
+		<delete dir="${build.dir}" />
+	</target>
+
+	<target name="clean-output" unless="doJAVAC.skip">
+		<delete dir="${output.dir}" />
+	</target>
+
+	<target name="doJAVAC" depends="checkJAVACRequired" unless="noJAVACRequired.skip" description="Compile java source">
+		<javac srcdir="${src.dir}" destdir="${build.dir}" debug="true" debuglevel="source,lines,vars" includeAntRuntime="false" listfiles="true" fork="true" memorymaximumsize="1024m" encoding="Cp1252">
+			<classpath>
+				<fileset dir="${vendor.dir}">
+					<include name="**/*.jar" />
+				</fileset>
+				<fileset dir="${lib.dir}">
+					<include name="*.jar" />
+				</fileset>
+			</classpath>
+		</javac>
+		<echo message="Java compile completed." />
+	</target>
+
+	<target name="checkJAVACRequired">
+	    <condition property="noJAVACRequired.skip">
+	        <or>
+	        	<isset property="doJAVAC.skip"/>
+	        	<isset property="noJAVAsrc.skip"/>
+	        </or>
+	    </condition>
+	</target>
+	
+	
+
+	<target name="doCopy" depends="checkJAVACRequired" unless="noJAVACRequired.skip" >
+		<copy todir="${output.dir}" preservelastmodified="true" includeEmptyDirs="false" verbose="true">
+			<fileset dir="${src.dir}">
+				<include name="**/*" />
+				<exclude name="**/*.java" />
+				<exclude name="rebel.xml" />
+				<exclude name="rebel-remote.xml" />
+			</fileset>
+		</copy>
+		<echo message="File Copy completed." />
+	</target>
+
+	<target name="doJAR" description="Make target jar">
+		<!-- <jar jarfile="${dist}/lib/MyProject-${DSTAMP}.jar" basedir="${build.dir}"/>-->
+		<jar destfile="${output.dir}/${target}" index="true" casesensitive="true" >
+			<fileset dir="${build.dir}">
+				<include name="**/*" />
+			</fileset>
+		</jar>
+		<echo message="${target} created." />
+	</target>
+
+	
+	<target name="doMoveToLib">
+		<delete file="${lib.dir}/${target}" />
+		<copy file="${output.dir}/${target}" toDir="${lib.dir}"/>
+	</target>
+	
+</project>

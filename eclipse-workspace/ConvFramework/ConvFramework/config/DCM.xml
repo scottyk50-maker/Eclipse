@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metaDataParserConfig>
+<!-- ./config/metaDataParserTagPair.xml com.dstsystems.bps.metaparser.config.MetaDataParserConfig -->
+    <_providerClass>com.dstsystems.bps.metaparser.ipopulateprocessitems.PopulateFromMeta</_providerClass>
+    <_consumerClass>com.dstsystems.bps.metaparser.iprocessor.MetaDataProcessor</_consumerClass>
+    <_threadCount>1</_threadCount>
+    <_providerSleep>50</_providerSleep>
+    <_license>RDMbOXUjtToW6SOx7NxrNg==</_license>
+    
+    <datacolumns>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>0</_columnPos>
+            <_fieldName>SourcePath</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>1</_storedProcPos>
+        </datacolumn>
+        <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>1</_columnPos>
+            <_fieldName>DestinationPath</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>2</_storedProcPos>
+        </datacolumn>
+        <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>2</_columnPos>
+            <_fieldName>ContentType</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>3</_storedProcPos>
+        </datacolumn>
+        <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>3</_columnPos>
+            <_fieldName>Title</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>4</_storedProcPos>
+        </datacolumn>
+        <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>4</_columnPos>
+            <_fieldName>Claim No</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>5</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>5</_columnPos>
+            <_fieldName>Policy No</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>6</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>6</_columnPos>
+            <_fieldName>Scan Date</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>7</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>7</_columnPos>
+            <_fieldName>User Index</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>8</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>8</_columnPos>
+            <_fieldName>Index Date</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>9</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>9</_columnPos>
+            <_fieldName>Channel</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>10</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>10</_columnPos>
+            <_fieldName>DCM Category</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>11</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>11</_columnPos>
+            <_fieldName>Document Type</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>12</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>12</_columnPos>
+            <_fieldName>Document Sub-Type</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>13</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>13</_columnPos>
+            <_fieldName>Certificate No</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>14</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>14</_columnPos>
+            <_fieldName>Created By</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>15</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>15</_columnPos>
+            <_fieldName>Created</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>16</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>16</_columnPos>
+            <_fieldName>Modified By</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>17</_storedProcPos>
+        </datacolumn>
+         <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>17</_columnPos>
+            <_fieldName>Modified</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>18</_storedProcPos>
+        </datacolumn>
+      </datacolumns>
+    
+    <_header>true</_header>
+    <_delimeter>191</_delimeter>
+    <_psuedoDel>-65</_psuedoDel>
+    <_eol>165</_eol>
+    <_tblID>DC</_tblID>
+    <_delCnt>18</_delCnt>
+    <_scrubfilePath>C:\MLI\Policye-Folder.CSV</_scrubfilePath>
+    <_metafilePath>C:\MLI\scrubDCM.csv</_metafilePath>
+    <_jdbcDriver>com.ibm.as400.access.AS400JDBCDriver</_jdbcDriver>
+    <_jdbcURL>jdbc:as400://Ts1p1;naming=system;errors=full</_jdbcURL>
+    <_dbUserId>DT12023</_dbUserId>
+    <_dbPwd>YVzf4j9FL9Ma2AmN18JOVQ==</_dbPwd>
+    <_spCommentsDef></_spCommentsDef>
+    <_spMetaDef>{call MLICONVRT/DCMLOAD(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)}</_spMetaDef>
+    
+    <_provRetrieveCnt>100</_provRetrieveCnt>
+
+</metaDataParserConfig>

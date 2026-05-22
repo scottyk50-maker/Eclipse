@@ -37,6 +37,7 @@ MicrosoftEdgeBackups/
 Saved Games/
 Searches/
 ansel/
+Eclipse/
 
 # Windows symlinked system dirs (cause permission errors with git)
 Application Data
@@ -53,7 +54,15 @@ Templates
 # Logs
 *.log
 
-# Eclipse build output
+# Eclipse IDE metadata, caches, and build output
+eclipse-workspace/.metadata/
+eclipse-workspace/.recommenders/
 eclipse-workspace/**/build/
 eclipse-workspace/**/output/
 eclipse-workspace/**/*.class
+eclipse-workspace/**/*.jar
+eclipse-workspace/**/testit.jar
+
+# BakedBeans exploded dependency artifacts (not source)
+eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/
+eclipse-workspace/BakedBeans-1.0.0/build/

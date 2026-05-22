@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CFWPublic"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AESCipher"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ConvDatabase"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/StorageAdapter"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/ojdbc/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/Apache/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/Centera/FPLibrary.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CFWPublic"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/AFT/awdaft.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ConvCheckSum"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/Snowbound/SnowBound.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

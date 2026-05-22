@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<centera2HCPConfig>
+<!-- ./config/centera2hcp.xml com.dstsystems.bps.centera2hcp.config.Centera2HCPConfig -->
+    <_providerClass>com.dstsystems.bps.centera2hcp.ipopulateprocessitems.PopulateItemsWithLocators</_providerClass>
+    <_consumerClass>com.dstsystems.bps.centera2hcp.iprocessor.Centera2HCP</_consumerClass>
+    <_threadCount>1</_threadCount>
+    <_providerSleep>2500</_providerSleep>
+    <_license>RDMbOXUjtToW6SOx7NxrNg==</_license>
+    
+    <_jdbcDriver>com.ibm.as400.access.AS400JDBCDriver</_jdbcDriver>
+    <_jdbcURL>jdbc:as400://ws1p1;naming=system;errors=full</_jdbcURL>
+    <_dbUserId>DT40903</_dbUserId>
+    <_dbPwd>z2i10FQyghuisnOiiUq+fg==</_dbPwd>
+    <_schema>AMCEN</_schema>
+    <_tableName>CEN_2_HCP2</_tableName>
+    
+    
+    <_bgnDestId>TST</_bgnDestId>
+    <_provRetrieveCnt>1</_provRetrieveCnt>
+    <_wrkDirPath>d:\ConvFramework\wrk_tmp</_wrkDirPath>
+    
+    <_centeraAppName>Centera2HCP</_centeraAppName>
+    <_centeraAppVersion>1.1</_centeraAppVersion>
+    <_centeraPoolAddress>10.193.137.10,10.193.137.11,10.193.137.12,10.193.137.13,10.193.137.14,10.193.137.15,10.193.137.16,10.193.137.17,10.193.137.18,10.193.137.19</_centeraPoolAddress>
+    <_centeraPeaFile>D:/ConvFramework/config/AACBSPDB.pea</_centeraPeaFile>
+    <_checkSumAlgorithm>2</_checkSumAlgorithm>
+    
+    <_hcpUserId>Admin</_hcpUserId>
+    <_hcpPwd>zL2tvy6JUCT9HLifThB+rw==</_hcpPwd>
+    <_hcpTenant>LINCDEV</_hcpTenant>
+    <_hcpNameSpace>IMAGES</_hcpNameSpace>
+    <_hcpRepository>pdc-hcpdev.dstcorp.net/rest/Greg/Test/ACI/test_09</_hcpRepository>
+    <_hcpValidHosts>dstcorp.net</_hcpValidHosts>
+        
+    <_trustStorePath>D:/HCP_Testing/Certs/hcpdev.jks</_trustStorePath>
+    <_trustStorePwd>cVpWz6aJOH9OQ9QsGqJ64g==</_trustStorePwd>
+    
+</centera2HCPConfig>

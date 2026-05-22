@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ./config/sample.xml com.dstsystems.bps.cfwsample.config.SampleConfig-->
+<sampleConfig>
+    <_configClass>com.dstsystems.bps.fw.imp.sample.config.SampleConfig</_configClass>
+    <_consumerClass>com.dstsystems.bps.cfwsample.iprocessor.SampleProcessor</_consumerClass>
+    <_itemStart>1</_itemStart>
+    <_itemStop>10</_itemStop>
+    <_license>RDMbOXUjtToW6SOx7NxrNg==</_license>
+    <_providerClass>com.dstsystems.bps.cfwsample.ipopulateprocessitems.SamplePopulateItems</_providerClass>
+    <_providerSleep>1000</_providerSleep>
+    <_threadCount>10</_threadCount>
+</sampleConfig>

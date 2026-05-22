@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testDBConfig>
+	<_jdbcDriver>com.microsoft.sqlserver.jdbc.SQLServerDriver</_jdbcDriver>
+    <_jdbcURL>jdbc:sqlserver://10.193.237.233:1433;DatabaseName=AWDP</_jdbcURL>
+    <_dbUserId>awdpowner</_dbUserId>
+    <_dbPwd>awd</_dbPwd>
+</testDBConfig>

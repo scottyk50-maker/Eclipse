@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<convImageConfig>
+<!-- ./config/scott_convimage.xml com.dstsystems.bps.convimage.config.ConvImageConfig -->
+    
+    <!-- Framework Settings -->
+    <_license>RDMbOXUjtToW6SOx7NxrNg==</_license>
+    <_providerClass>com.dstsystems.bps.convimage.ipopulateprocessitems.PopulateItemsWithDocIds</_providerClass>
+    <_consumerClass>com.dstsystems.bps.convimage.iprocessor.ConvImageProcessor</_consumerClass>
+    <_providerSleep>2500</_providerSleep>
+    <_threadCount>1</_threadCount>
+    
+    
+    <!-- Database Settings -->
+    <_jdbcDriver>oracle.jdbc.driver.OracleDriver</_jdbcDriver>
+    <_jdbcURL>jdbc:oracle:thin:@10.193.245.189:1521:awd</_jdbcURL>
+    <_dbUserId>CUSTOM</_dbUserId>
+    <_dbPwd>VURFnyIQQm8tTd4GsdxD8Q==</_dbPwd>
+    <_useOracleCursor>true</_useOracleCursor>    
+	
+    
+    <!-- Query Information -->
+    <_docTableNm>SRVGETCOLLECTIONRESULTS</_docTableNm>
+    <_physFileTableNm>_physFileTableNm</_physFileTableNm>
+    <_spInsrtDefiniton>{call INSRTSMCRLTS(?,?,?,?)}</_spInsrtDefiniton>
+    <_spRtrvDefiniton>{call GETObjectId(?,?,?,?,?)}</_spRtrvDefiniton>
+    <_startCRDA>1970-01-01-01.01.01.000001</_startCRDA>
+    <_endCRDA>2020-01-01-01.01.01.000001</_endCRDA>
+    <_provRetrieveCnt>1</_provRetrieveCnt>
+    
+        
+    
+    
+    <!-- AWD XML Server -->
+    <_awdUserId>DSTSETUP</_awdUserId>
+    <!-- <_awdPWD>Passwd@1</_awdPWD> -->
+    <_awdPWD>tUX5rSgkPy3EPmxKLD7+Og==</_awdPWD>
+    <_xmlServer>10.193.245.189</_xmlServer>
+    <_xmlPort>12955</_xmlPort>
+    
+    
+    
+    <!-- AFT Configuration -->
+    <aftServers>
+        <aftServer>
+            <_DestId>DestId_1</_DestId>
+            <_host>Host_1</_host>
+            <_port>1</_port>
+        </aftServer>
+    </aftServers>
+    <_dasdStartPath>_dasdStartPath</_dasdStartPath>
+    
+</convImageConfig>

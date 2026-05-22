@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/Jodd/jodd-3.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/IBM/jt400.jar"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/Apache/commons-codec-1.9.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CFWPublic"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ConvDatabase"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AESCipher"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DASD2HCP"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DASD2DASD"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ConvImage"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Centera2HCP"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CFWSample"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/ojdbc/ojdbc6.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DestLocAFT"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ConvCheckSum"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/sqljdbc/sqljdbc4.jar"/>
+	<classpathentry kind="src" path="/MetaDataParser"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

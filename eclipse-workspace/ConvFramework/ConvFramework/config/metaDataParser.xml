@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metaDataParserConfig>
+<!-- ./config/metaDataParser.xml com.dstsystems.bps.metaparser.config.MetaDataParserConfig -->
+    <_providerClass>com.dstsystems.bps.metaparser.ipopulateprocessitems.PopulateFromMeta</_providerClass>
+    <_consumerClass>com.dstsystems.bps.metaparser.iprocessor.MetaDataProcessor</_consumerClass>
+    <_threadCount>1</_threadCount>
+    <_providerSleep>5000</_providerSleep>
+    <_license>RDMbOXUjtToW6SOx7NxrNg==</_license>
+    
+    <datacolumns>
+        <datacolumn>
+            <_Comment>false</_Comment>
+            <_PrimaryKey>true</_PrimaryKey>
+            <_Clob>false</_Clob>
+            <_columnPos>0</_columnPos>
+            <_fieldName>FirstNm</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>1</_storedProcPos>
+        </datacolumn>
+        <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>1</_columnPos>
+            <_fieldName>LastNm</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>2</_storedProcPos>
+        </datacolumn>
+        <datacolumn>
+            <_Comment>false</_Comment>
+            <_Clob>false</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>2</_columnPos>
+            <_fieldName>ProcessDate</_fieldName>
+            <_storedProcDataType>0</_storedProcDataType>
+            <_storedProcPos>3</_storedProcPos>
+        </datacolumn>
+		<datacolumn>
+            <_Comment>true</_Comment>
+            <_Clob>true</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>4</_columnPos>
+            <_fieldName>CLOB_1</_fieldName>
+            <_storedProcDataType>2</_storedProcDataType>
+            <_storedProcPos>4</_storedProcPos>
+        </datacolumn>
+        <datacolumn>
+            <_Comment>true</_Comment>
+            <_Clob>true</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>5</_columnPos>
+            <_fieldName>CLOB_2</_fieldName>
+            <_storedProcDataType>2</_storedProcDataType>
+            <_storedProcPos>5</_storedProcPos>
+        </datacolumn>
+        <datacolumn>
+            <_Comment>true</_Comment>
+            <_Clob>true</_Clob>
+            <_PrimaryKey>false</_PrimaryKey>
+            <_columnPos>6</_columnPos>
+            <_fieldName>CLOB_3</_fieldName>
+            <_storedProcDataType>2</_storedProcDataType>
+            <_storedProcPos>6</_storedProcPos>
+        </datacolumn>
+    </datacolumns>
+    
+    <_delimeter>33</_delimeter>
+    <_metafilePath>../MetaDataParser/metadata/SampleMeta_tagPair.csv</_metafilePath>
+    <_jdbcDriver>com.ibm.as400.access.AS400JDBCDriver</_jdbcDriver>
+    <_jdbcURL>jdbc:as400://10.193.204.19;naming=system;errors=full</_jdbcURL>
+    <_dbUserId>DT40903</_dbUserId>
+    <_dbPwd>ltrvGTO4sySM6L5yI8109w==</_dbPwd>
+    <_spCommentsDef>{call MAN_SL/COMM_TST(?,?,?)}</_spCommentsDef>
+    <_spMetaDef>{call MAN_SL/META_TST(?, ?,?, ?)}</_spMetaDef>
+    
+    <_provRetrieveCnt>1</_provRetrieveCnt>
+
+</metaDataParserConfig>

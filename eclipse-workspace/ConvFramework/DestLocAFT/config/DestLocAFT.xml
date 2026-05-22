@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<destLocAFTConfig>
+<!-- com.dstsystems.bps.destlocaft.iprocessor.DestLocAFTProcessor -->
+<!-- com.dstsystems.bps.destlocaft.ipopulateprocessitems.PopulateItemsWithDestLoc -->
+<!-- com.dstsystems.bps.destlocaft.config.DestLocAFTConfig -->
+<!-- D:/source/workspaces/ConversionFramework/DestLocAFT/config/DestLocAFT.xml com.dstsystems.bps.destlocaft.config.DestLocAFTConfig -->
+
+    <!-- Framework Settings -->
+    <_license>RDMbOXUjtToW6SOx7NxrNg==</_license>
+    <_providerClass>com.dstsystems.bps.destlocaft.ipopulateprocessitems.PopulateItemsWithDestLoc</_providerClass>
+    <_consumerClass>com.dstsystems.bps.destlocaft.iprocessor.DestLocAFTProcessor</_consumerClass>
+    <_providerSleep>50000</_providerSleep>
+    <_threadCount>1</_threadCount>
+    <_endNoRecFound>false</_endNoRecFound>
+    
+    <_enableAFTLogging>true</_enableAFTLogging>
+   
+    <!-- AFT Server File Actions and Checksum properties -->
+    <!-- ____File Actions_______________________________ -->
+    	<!-- All OFF 		0000 -->
+    	<!-- GET_FILE_SIZE 	0001 -->
+		<!-- GET_CHECKSUM  	0010 -->
+		<!-- GET_FILE_FRMT 	0100 -->
+	<!-- ____Checksum Algorithm_________________________ -->
+		<!-- ALGO_MD5 		0000 -->
+		<!-- ALGO_SHA_1 	0001 -->
+		<!-- ALGO_SHA_256 	0010 -->
+	<!-- _______________________________________________ -->
+    <aftServers>
+        <aftServer>
+            <_DestId>1</_DestId>
+            <_host>10.193.245.126</_host>
+            <_port>2000</_port>
+            <_fileActionFlags>7</_fileActionFlags>
+			<_chkSumAlgoIndex>2</_chkSumAlgoIndex>
+        </aftServer>
+        <aftServer>
+            <_DestId>2</_DestId>
+            <_host>10.193.245.126</_host>
+            <_port>2000</_port>
+            <_fileActionFlags>3</_fileActionFlags>
+			<_chkSumAlgoIndex>0</_chkSumAlgoIndex>
+        </aftServer>
+    </aftServers>
+    <_dasdStartPath>D:/ConvFramework/wrk_tmp</_dasdStartPath>
+    
+    
+ 	<!-- Database Settings -->
+	<!-- ____________________________________________ -->
+	<!-- <_dbType>ORACLE</_dbType> -->
+	<!-- oracle.jdbc.driver.OracleDriver -->
+	<!-- jdbc:oracle:thin:@hostName:port:SID -->
+
+	<!-- ____________________________________________ -->
+	<!-- <_dbType>DB2</_dbType> -->
+	<!-- com.ibm.as400.access.AS400JDBCDriver -->
+	<!-- jdbc:as400://hostName;naming=system;errors=full -->
+
+	<!-- ____________________________________________ -->
+	<!-- <_dbType>SQLSERVER</_dbType> -->
+	<!-- com.microsoft.sqlserver.jdbc.SQLServerDriver  -->
+	<!-- jdbc:sqlserver://hostName:port;DatabaseName=DB  -->
+	<!-- ____________________________________________ -->
+    
+	<_dbType>ORACLE</_dbType><_jdbcDriver>oracle.jdbc.driver.OracleDriver</_jdbcDriver><_jdbcURL>jdbc:oracle:thin:@10.193.245.126:1521:awd</_jdbcURL><_dbUserId>awdpowner</_dbUserId><_dbPwd>nfVTq4TrtkV8yFHv0RBhsQ==</_dbPwd><_schemaTableNm>DEST_LOC</_schemaTableNm>
+
+<!--	<_dbType>DB2</_dbType><_jdbcDriver>com.ibm.as400.access.AS400JDBCDriver</_jdbcDriver><_jdbcURL>jdbc:as400://170.40.103.207;naming=system;errors=full</_jdbcURL><_dbUserId>DT40903</_dbUserId><_dbPwd>nWigSwZfBsEQDgVfXULwWg==</_dbPwd><_schemaTableNm>DT40903/DEST_LOC</_schemaTableNm> -->
+	
+	<_provRetrieveCnt>10</_provRetrieveCnt>
+	<_schema>schema</_schema>
+	<_batchId>1</_batchId>
+    <_processFlag>N</_processFlag>
+    
+</destLocAFTConfig>

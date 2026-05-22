@@ -1,0 +1,14 @@
+ <project name="DestLocAFT" default="buildonly" basedir=".">
+ <!--http://ant.apache.org/manual/using.html -->
+	<description> Build DestLocAFT</description>
+	<!-- set global properties for this build -->
+	<property name="target" value="DestLocAFT.jar" />
+	<import file="../common-targets.xml" as="common" />
+		
+	
+	<target name="buildonly" depends="common.buildonly" description="Performs builds only.">
+		<echo message="buildonly completed." />
+	</target>
+
+	
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/Snowbound/SnowBound.jar"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/ojdbc/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/AFT/awdaft.jar" sourcepath="/aft35"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/IBM/jt400.jar"/>
+	<classpathentry kind="lib" path="D:/Source/conversionTeam/libs/3rdPartyLibs/Jodd/jodd-3.5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

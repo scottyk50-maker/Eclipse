@@ -1,0 +1,14 @@
+ <project name="CFWPublic" default="buildonly" basedir=".">
+ <!--http://ant.apache.org/manual/using.html -->
+	<description> Build CFWPublic</description>
+	<!-- set global properties for this build -->
+	<property name="target" value="CFWPublic.jar" />
+	<import file="../common-targets.xml" as="common" />
+		
+	
+	<target name="buildonly" depends="common.buildonly" description="Performs builds only.">
+		<echo message="buildonly completed." />
+	</target>
+
+	
+</project>

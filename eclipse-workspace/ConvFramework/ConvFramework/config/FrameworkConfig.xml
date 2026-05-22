@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FrameConfig>
+    <_configId>1</_configId>
+    <_jdbcDriver>com.ibm.as400.access.AS400JDBCDriver</_jdbcDriver>
+    <_jdbcURL>jdbc:as400://10.193.204.19;naming=system;errors=full</_jdbcURL>
+    <_dbUserId>DT40903</_dbUserId>
+    <_dbPwd>p1e4vIsFCMxe3vuIeMrMwQ==</_dbPwd>
+    <_configSchema>DT40903</_configSchema>
+    <_configTable>CONFIG_DASD</_configTable>
+    <!--<_configTable>CONFIG_DASD</_configTable> -->
+    	<!--
+    		encryptText = <QxE4BnLdwOKXowqGYZ0ofw==> clearText = <2008-01-01> 
+    		encryptText = <RDMbOXUjtToW6SOx7NxrNg==> clearText = <2035-01-01>
+    	-->
+    <_license>RDMbOXUjtToW6SOx7NxrNg==</_license>
+</FrameConfig>
