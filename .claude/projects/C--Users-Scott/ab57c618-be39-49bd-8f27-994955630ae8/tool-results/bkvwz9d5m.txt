@@ -1,0 +1,567 @@
+rm 'eclipse-workspace/.recommenders/caches/identified-project-coordinates.json'
+rm 'eclipse-workspace/.recommenders/caches/manual-mappings.json'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_5.fdt'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_5.fdx'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_5.fnm'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_5.frq'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_5.nrm'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_5.prx'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_5.tii'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_5.tis'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen'
+rm 'eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_6'
+rm 'eclipse-workspace/AWSTester/.classpath'
+rm 'eclipse-workspace/AWSTester/.project'
+rm 'eclipse-workspace/AWSTester/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/AWSTester/src/HighLevelMultipartUpload.java'
+rm 'eclipse-workspace/BakedBeans-1.0.0/.classpath'
+rm 'eclipse-workspace/BakedBeans-1.0.0/.project'
+rm 'eclipse-workspace/BakedBeans-1.0.0/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/BakedBeans-1.0.0/.settings/org.eclipse.wst.common.component'
+rm 'eclipse-workspace/BakedBeans-1.0.0/.settings/org.eclipse.wst.common.project.facet.core.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/INDEX.LIST'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/LICENSE'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/LICENSE.md'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/LICENSE.txt'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/MANIFEST.MF'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/NOTICE'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/NOTICE.md'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/NOTICE.txt'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/gradle/incremental.annotation.processors'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/io.netty.versions.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/licenses/ASM'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/mailcap.default'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.auto.service/auto-service-annotations/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.auto.service/auto-service-annotations/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.auto.service/auto-service/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.auto.service/auto-service/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.auto/auto-common/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.auto/auto-common/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.code.findbugs/jsr305/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.code.findbugs/jsr305/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.errorprone/error_prone_annotations/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.errorprone/error_prone_annotations/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.guava/failureaccess/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.guava/failureaccess/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.guava/guava/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.guava/guava/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.guava/listenablefuture/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.guava/listenablefuture/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.j2objc/j2objc-annotations/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.google.j2objc/j2objc-annotations/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.sun.activation/jakarta.activation/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.sun.activation/jakarta.activation/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.typesafe.netty/netty-reactive-streams/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/com.typesafe.netty/netty-reactive-streams/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/commons-io/commons-io/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/commons-io/commons-io/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/dev.failsafe/failsafe/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/dev.failsafe/failsafe/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-buffer/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-buffer/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-codec-http/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-codec-http/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-codec-socks/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-codec-socks/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-codec/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-codec/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-common/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-common/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-handler-proxy/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-handler-proxy/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-handler/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-handler/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-resolver/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-resolver/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-classes-epoll/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-classes-epoll/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-classes-kqueue/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-classes-kqueue/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-native-epoll/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-native-epoll/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-native-kqueue/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-native-kqueue/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-native-unix-common/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport-native-unix-common/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.netty/netty-transport/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.ous/jtoml/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/io.ous/jtoml/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/net.bytebuddy/byte-buddy-dep/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/net.bytebuddy/byte-buddy-dep/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/net.bytebuddy/byte-buddy/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/net.bytebuddy/byte-buddy/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.apache.commons/commons-exec/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.apache.commons/commons-exec/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.asynchttpclient/async-http-client-netty-utils/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.asynchttpclient/async-http-client-netty-utils/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.asynchttpclient/async-http-client/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.asynchttpclient/async-http-client/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.jctools/jctools-core/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.jctools/jctools-core/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.slf4j/slf4j-api/pom.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/maven/org.slf4j/slf4j-api/pom.xml'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/mimetypes.default'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native-image/io.netty/buffer/native-image.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native-image/io.netty/codec-http/native-image.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native-image/io.netty/common/native-image.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native-image/io.netty/handler/native-image.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native-image/io.netty/transport/native-image.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native-image/io.netty/transport/reflection-config.json'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native-image/net.bytebuddy/native-image.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native/libnetty_transport_native_epoll_x86_64.so'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/native/libnetty_transport_native_kqueue_x86_64.jnilib'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/selenium-build.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/io.opentelemetry.sdk.autoconfigure.spi.traces.SdkTracerProviderConfigurer'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/javax.annotation.processing.Processor'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/org.openqa.selenium.WebDriverInfo'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/org.openqa.selenium.devtools.CdpInfo'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/org.openqa.selenium.remote.AdditionalHttpCommands'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/org.openqa.selenium.remote.AugmenterProvider'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/org.openqa.selenium.remote.http.HttpClient$Factory'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/org.openqa.selenium.remote.locators.CustomLocator'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/org.openqa.selenium.remote.service.DriverService$Builder'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/META-INF/services/reactor.blockhound.integration.BlockHoundIntegration'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/api/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/context/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/exporter/logging/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/autoconfigure/spi/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/autoconfigure/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/common/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/extension/logging/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/metrics/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/trace/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/semconv/version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/config/ahc-default.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/config/ahc-version.properties'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/request/body/multipart/ahc-mime.types'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/devtools/mutation-listener.js'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/remote/getAttribute.js'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/remote/isDisplayed.js'
+rm 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/support/locators/findElements.js'
+rm 'eclipse-workspace/BuildTestImages/.classpath'
+rm 'eclipse-workspace/BuildTestImages/.project'
+rm 'eclipse-workspace/BuildTestImages/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/BuildTestImages/src/Buildit.java'
+rm 'eclipse-workspace/ConvFramework/.classpath'
+rm 'eclipse-workspace/ConvFramework/.project'
+rm 'eclipse-workspace/ConvFramework/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/ConvFramework/AESCipher/.classpath'
+rm 'eclipse-workspace/ConvFramework/AESCipher/.project'
+rm 'eclipse-workspace/ConvFramework/AESCipher/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/ConvFramework/AESCipher/build.xml'
+rm 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/AESCipher.java'
+rm 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/CipherContants.java'
+rm 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/brute/Bruter.java'
+rm 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/brute/HashBruter.java'
+rm 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/exception/keyPhraseException.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/.classpath'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/.gitignore'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/.project'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/build.xml'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/config/SB_FILE_TYPES.dat'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/sql/setup.sql'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/exceptions/AWDXMLException.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/AWDXMLResponse.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/AWDXMLServer.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/socket/AWDXMLHost.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/AWDCollection.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/AWDPage.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/SRVGetColl.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/SRVGetCollHandler.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/SBFileTypes.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/SnowBoundFileTypeException.java'
+rm 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/Tester.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/.classpath'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/.project'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/build.xml'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/config/CFWBaseConfig.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/dao/CFWBaseDAO.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/exceptions/RestartConsumerException.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/exceptions/ShutdownException.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IConfig.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IDBConfiguration.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IPopulateProcessItems.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IProcessItem.java'
+rm 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IProcessor.java'
+rm 'eclipse-workspace/ConvFramework/ConvCheckSum/.classpath'
+rm 'eclipse-workspace/ConvFramework/ConvCheckSum/.gitignore'
+rm 'eclipse-workspace/ConvFramework/ConvCheckSum/.project'
+rm 'eclipse-workspace/ConvFramework/ConvCheckSum/build.xml'
+rm 'eclipse-workspace/ConvFramework/ConvCheckSum/src/com/dstsystems/convchksum/exceptions/ConvChkSumException.java'
+rm 'eclipse-workspace/ConvFramework/ConvCheckSum/src/com/dstsystems/convchksum/processs/ConvCheckSum.java'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/.classpath'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/.project'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/bin/com/dstsystems/bps/convdb/test/TestDBConfig.xml'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/build.xml'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/config/TestDBConfig.xml'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/config/largefile.dat'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/database/ConvDB.java'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/database/FieldTypeValue.java'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/database/Recordset.java'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/exceptions/ConvDBException.java'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/test/ConnectTest.java'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/test/TestDBConfig.java'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/test/TestDBConfig.xml'
+rm 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/test/Tester.java'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/.classpath'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/.project'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/build.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/ArchiveRequest.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/DCM.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/DestLocAFT.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/FrameworkConfig.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/aci_convimage.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/centera2hcp.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/convimage.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/dasd2dasd.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/dasd2hcp.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/eFolder.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/eFolderFI.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/eFolderFO.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/hk_convimage.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/logging.properties'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/metaDataParser.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/sample.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/config/scott_convimage.xml'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/sql/CENTERA2HCP.sql'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/sql/DASD2DASD.sql'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/sql/setup.sql'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/config/FrameXMLConfig.java'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/framework/CmntBrkr.java'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/framework/FrameConsumer.java'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/framework/FrameProvider.java'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/framework/ScrubData.java'
+rm 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/framework/WorkFutureTracker.java'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/.classpath'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/.gitignore'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/.project'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/build.xml'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/config/DestLocAFT.xml'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/doc/DestLocAFT Setup and Config Guide.docx'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/sql/table_creates.sql'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/config/DestLocAFTConfig.java'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/database/DBConstants.java'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/database/DestLocDAO.java'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/ipopulateprocessitems/PopulateItemsWithDestLoc.java'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/iprocessitem/DestLocProcessItem.java'
+rm 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/iprocessor/DestLocAFTProcessor.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/.classpath'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/.project'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/build.xml'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/config/SB_FILE_TYPES.dat'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/AFTConfig.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/AFTMsg.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/AFTPool.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/ConvAFT.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/tester/AFTTester.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/tester/JHRPSCenteraCheck.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/centera/CenteraMsg.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/centera/CenteraProcess.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/centera/tester/DeleteTester.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/centera/tester/Tester.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/exceptions/AFT_FW_Exception.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/exceptions/CenteraException.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/exceptions/FileChannelDigestException.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/exceptions/HCPException.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/hcp/HCPMsg.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/hcp/HCPProcess.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/hcp/tester/CenteraTester.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/hcp/tester/HCPTester.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/storageadapter/snowbound/SBFileTypes.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/storageadapter/snowbound/SnowBoundFileTypeException.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/streams/DigestOutputStream.java'
+rm 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/streams/FileChannelOutputDigestStream.java'
+rm 'eclipse-workspace/ConvFramework/common-targets.xml'
+rm 'eclipse-workspace/ConvFramework/lib/AESCipher.cmd'
+rm 'eclipse-workspace/FileCopy/.classpath'
+rm 'eclipse-workspace/FileCopy/.project'
+rm 'eclipse-workspace/FileCopy/.settings/org.eclipse.core.resources.prefs'
+rm 'eclipse-workspace/FileCopy/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/FileCopy/src/FileCopy.java'
+rm 'eclipse-workspace/HelloWorld/.classpath'
+rm 'eclipse-workspace/HelloWorld/.project'
+rm 'eclipse-workspace/HelloWorld/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/MTtest/.classpath'
+rm 'eclipse-workspace/MTtest/.project'
+rm 'eclipse-workspace/MTtest/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/MTtest/src/HelloWorld.java'
+rm 'eclipse-workspace/MTtest/src/myTEST.java'
+rm 'eclipse-workspace/RemoteSystemsTempFiles/.project'
+rm 'eclipse-workspace/Roulette/.classpath'
+rm 'eclipse-workspace/Roulette/.project'
+rm 'eclipse-workspace/Roulette/.settings/org.eclipse.core.resources.prefs'
+rm 'eclipse-workspace/Roulette/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/Roulette/src/Roulette.java'
+rm 'eclipse-workspace/Roulette/src/Roulette2.java'
+rm 'eclipse-workspace/S3LoadImages/.classpath'
+rm 'eclipse-workspace/S3LoadImages/.project'
+rm 'eclipse-workspace/S3LoadImages/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/S3LoadImages/src/aws/example/s3/XferMgrProgress.java'
+rm 'eclipse-workspace/S3LoadImages/src/aws/example/s3/XferMgrUpload.java'
+rm 'eclipse-workspace/StockPriceHistory/.classpath'
+rm 'eclipse-workspace/StockPriceHistory/.project'
+rm 'eclipse-workspace/StockPriceHistory/.settings/org.eclipse.core.resources.prefs'
+rm 'eclipse-workspace/StockPriceHistory/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/StockPriceHistory/src/StockPriceHistoryExample.java'
+rm 'eclipse-workspace/StockPriceHistoryExample/.classpath'
+rm 'eclipse-workspace/StockPriceHistoryExample/.project'
+rm 'eclipse-workspace/StockPriceHistoryExample/.settings/org.eclipse.core.resources.prefs'
+rm 'eclipse-workspace/StockPriceHistoryExample/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/SupportResistanceExample/.classpath'
+rm 'eclipse-workspace/SupportResistanceExample/.project'
+rm 'eclipse-workspace/SupportResistanceExample/.settings/org.eclipse.core.resources.prefs'
+rm 'eclipse-workspace/SupportResistanceExample/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/SupportResistanceExample/src/SupportResistanceExample.java'
+rm 'eclipse-workspace/Test/.classpath'
+rm 'eclipse-workspace/Test/.project'
+rm 'eclipse-workspace/Test/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/Test/src/welcome.java'
+rm 'eclipse-workspace/TslaSupportResistanceExample/.classpath'
+rm 'eclipse-workspace/TslaSupportResistanceExample/.project'
+rm 'eclipse-workspace/TslaSupportResistanceExample/.settings/org.eclipse.core.resources.prefs'
+rm 'eclipse-workspace/TslaSupportResistanceExample/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/TslaSupportResistanceExample/src/TslaSupportResistanceExample.java'
+rm 'eclipse-workspace/XferMgrUpload/.classpath'
+rm 'eclipse-workspace/XferMgrUpload/.project'
+rm 'eclipse-workspace/XferMgrUpload/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/scooter/.classpath'
+rm 'eclipse-workspace/scooter/.project'
+rm 'eclipse-workspace/scooter/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/scooter/src/scooter/whyme.java'
+rm 'eclipse-workspace/stockPrice/.classpath'
+rm 'eclipse-workspace/stockPrice/.project'
+rm 'eclipse-workspace/stockPrice/.settings/org.eclipse.core.resources.prefs'
+rm 'eclipse-workspace/stockPrice/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/stockPrice/src/StockPrice.java'
+rm 'eclipse-workspace/test2/.classpath'
+rm 'eclipse-workspace/test2/.project'
+rm 'eclipse-workspace/test2/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/test2/src/test2/hello.java'
+rm 'eclipse-workspace/test3/.classpath'
+rm 'eclipse-workspace/test3/.project'
+rm 'eclipse-workspace/test3/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/test3/src/test3/test3.java'
+rm 'eclipse-workspace/test4/.classpath'
+rm 'eclipse-workspace/test4/.project'
+rm 'eclipse-workspace/test4/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/test4/src/test4/MyRunnable.java'
+rm 'eclipse-workspace/test5/.classpath'
+rm 'eclipse-workspace/test5/.project'
+rm 'eclipse-workspace/test5/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/test5/src/test5/MyRunnable.java'
+rm 'eclipse-workspace/test6/.classpath'
+rm 'eclipse-workspace/test6/.project'
+rm 'eclipse-workspace/test6/.settings/org.eclipse.jdt.core.prefs'
+rm 'eclipse-workspace/test6/src/test6/MyRunnable2.java'
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/config/ahc-default.properties', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/config/ahc-version.properties', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/request/body/multipart/ahc-mime.types', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/devtools/mutation-listener.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/remote/getAttribute.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/remote/isDisplayed.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/support/locators/findElements.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AESCipher/.project', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AESCipher/.settings/org.eclipse.jdt.core.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AESCipher/build.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/AESCipher.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/CipherContants.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/brute/Bruter.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/brute/HashBruter.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/exception/keyPhraseException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/.project', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/.settings/org.eclipse.jdt.core.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/build.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/config/SB_FILE_TYPES.dat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/sql/setup.sql', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/exceptions/AWDXMLException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/AWDXMLResponse.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/AWDXMLServer.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/socket/AWDXMLHost.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/AWDCollection.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/AWDPage.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/SRVGetColl.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/SRVGetCollHandler.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/SBFileTypes.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/SnowBoundFileTypeException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/Tester.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/.project', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/.settings/org.eclipse.jdt.core.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/build.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/config/CFWBaseConfig.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/dao/CFWBaseDAO.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/exceptions/RestartConsumerException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/exceptions/ShutdownException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IConfig.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IDBConfiguration.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IPopulateProcessItems.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IProcessItem.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvCheckSum/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvCheckSum/.project', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvCheckSum/build.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvCheckSum/src/com/dstsystems/convchksum/exceptions/ConvChkSumException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvCheckSum/src/com/dstsystems/convchksum/processs/ConvCheckSum.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/.project', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/.settings/org.eclipse.jdt.core.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/bin/com/dstsystems/bps/convdb/test/TestDBConfig.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/build.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/config/TestDBConfig.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/config/largefile.dat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/database/ConvDB.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/database/FieldTypeValue.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/database/Recordset.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/exceptions/ConvDBException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/test/ConnectTest.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/test/TestDBConfig.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/test/TestDBConfig.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvDatabase/src/com/dstsystems/bps/convdb/test/Tester.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/.project', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/.settings/org.eclipse.jdt.core.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/build.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/DestLocAFT.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/FrameworkConfig.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/aci_convimage.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/centera2hcp.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/convimage.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/dasd2dasd.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/dasd2hcp.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/hk_convimage.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/logging.properties', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/metaDataParser.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/sample.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/config/scott_convimage.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/sql/CENTERA2HCP.sql', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/sql/DASD2DASD.sql', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/sql/setup.sql', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/config/FrameXMLConfig.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/framework/FrameConsumer.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/framework/FrameProvider.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/ConvFramework/src/com/dstsystems/bps/cfw/framework/WorkFutureTracker.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/.project', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/.settings/org.eclipse.jdt.core.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/build.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/config/DestLocAFT.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/sql/table_creates.sql', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/config/DestLocAFTConfig.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/database/DBConstants.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/database/DestLocDAO.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/ipopulateprocessitems/PopulateItemsWithDestLoc.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/iprocessitem/DestLocProcessItem.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/DestLocAFT/src/com/dstsystems/bps/destlocaft/iprocessor/DestLocAFTProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/.project', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/.settings/org.eclipse.jdt.core.prefs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/build.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/config/SB_FILE_TYPES.dat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/AFTConfig.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/AFTMsg.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/AFTPool.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/ConvAFT.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/tester/AFTTester.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/aft/tester/JHRPSCenteraCheck.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/centera/CenteraMsg.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/centera/CenteraProcess.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/centera/tester/DeleteTester.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/centera/tester/Tester.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/exceptions/AFT_FW_Exception.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/exceptions/CenteraException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/exceptions/FileChannelDigestException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/exceptions/HCPException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/hcp/HCPMsg.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/hcp/HCPProcess.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/hcp/tester/CenteraTester.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/hcp/tester/HCPTester.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/storageadapter/snowbound/SBFileTypes.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/storageadapter/snowbound/SnowBoundFileTypeException.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/streams/DigestOutputStream.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eclipse-workspace/ConvFramework/StorageAdapter/src/com/dstsystems/bps/streams/FileChannelOutputDigestStream.java', LF will be replaced by CRLF the next time Git touches it
+M  .gitignore
+A  eclipse-workspace/AWSTester/.classpath
+A  eclipse-workspace/AWSTester/.project
+A  eclipse-workspace/AWSTester/.settings/org.eclipse.jdt.core.prefs
+A  eclipse-workspace/AWSTester/src/HighLevelMultipartUpload.java
+A  eclipse-workspace/BakedBeans-1.0.0/.classpath
+A  eclipse-workspace/BakedBeans-1.0.0/.project
+A  eclipse-workspace/BakedBeans-1.0.0/.settings/org.eclipse.jdt.core.prefs
+A  eclipse-workspace/BakedBeans-1.0.0/.settings/org.eclipse.wst.common.component
+A  eclipse-workspace/BakedBeans-1.0.0/.settings/org.eclipse.wst.common.project.facet.core.xml
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/api/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/context/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/exporter/logging/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/autoconfigure/spi/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/autoconfigure/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/common/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/extension/logging/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/metrics/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/trace/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/sdk/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/io/opentelemetry/semconv/version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/config/ahc-default.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/config/ahc-version.properties
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/asynchttpclient/request/body/multipart/ahc-mime.types
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/devtools/mutation-listener.js
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/remote/getAttribute.js
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/remote/isDisplayed.js
+A  eclipse-workspace/BakedBeans-1.0.0/appClientModule/org/openqa/selenium/support/locators/findElements.js
+A  eclipse-workspace/BuildTestImages/.classpath
+A  eclipse-workspace/BuildTestImages/.project
+A  eclipse-workspace/BuildTestImages/.settings/org.eclipse.jdt.core.prefs
+A  eclipse-workspace/BuildTestImages/src/Buildit.java
+A  eclipse-workspace/ConvFramework/.classpath
+A  eclipse-workspace/ConvFramework/.project
+A  eclipse-workspace/ConvFramework/.settings/org.eclipse.jdt.core.prefs
+A  eclipse-workspace/ConvFramework/AESCipher/.classpath
+A  eclipse-workspace/ConvFramework/AESCipher/.project
+A  eclipse-workspace/ConvFramework/AESCipher/.settings/org.eclipse.jdt.core.prefs
+A  eclipse-workspace/ConvFramework/AESCipher/build.xml
+A  eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/AESCipher.java
+A  eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/CipherContants.java
+A  eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/brute/Bruter.java
+A  eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/brute/HashBruter.java
+A  eclipse-workspace/ConvFramework/AESCipher/src/com/dstsystems/bps/cipher/exception/keyPhraseException.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/.classpath
+A  eclipse-workspace/ConvFramework/AWDXMLServer/.gitignore
+A  eclipse-workspace/ConvFramework/AWDXMLServer/.project
+A  eclipse-workspace/ConvFramework/AWDXMLServer/.settings/org.eclipse.jdt.core.prefs
+A  eclipse-workspace/ConvFramework/AWDXMLServer/build.xml
+A  eclipse-workspace/ConvFramework/AWDXMLServer/config/SB_FILE_TYPES.dat
+A  eclipse-workspace/ConvFramework/AWDXMLServer/sql/setup.sql
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/exceptions/AWDXMLException.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/AWDXMLResponse.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/AWDXMLServer.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/server/socket/AWDXMLHost.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/AWDCollection.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/AWDPage.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/SRVGetColl.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/srvgetcoll/SRVGetCollHandler.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/SBFileTypes.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/SnowBoundFileTypeException.java
+A  eclipse-workspace/ConvFramework/AWDXMLServer/src/com/dstsytems/bps/awdxml/tester/Tester.java
+A  eclipse-workspace/ConvFramework/CFWPublic/.classpath
+A  eclipse-workspace/ConvFramework/CFWPublic/.project
+A  eclipse-workspace/ConvFramework/CFWPublic/.settings/org.eclipse.jdt.core.prefs
+A  eclipse-workspace/ConvFramework/CFWPublic/build.xml
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/config/CFWBaseConfig.java
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/dao/CFWBaseDAO.java
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/exceptions/RestartConsumerException.java
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/exceptions/ShutdownException.java
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IConfig.java
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IDBConfiguration.java
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IPopulateProcessItems.java
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IProcessItem.java
+A  eclipse-workspace/ConvFramework/CFWPublic/src/com/dstsystems/bps/cfw/pub/interfaces/IProcessor.java
+A  eclipse-workspace/ConvFramework/ConvCheckSum/.classpath
+A  eclipse-workspace/ConvFramework/ConvCheckSum/.gitignore
+A  eclipse-workspace/ConvFramework/ConvCheckSum/.project
+A  eclipse-workspace/ConvFramework/ConvCheckSum/build.xml
+A  eclipse-workspace/ConvFramework/ConvCheckSum/src/com/dstsystems/convchksum/exceptions/ConvChkSumException.java

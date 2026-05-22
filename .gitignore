@@ -8,6 +8,11 @@ ntuser.ini
 .aws/
 .claude.json
 .claude.json.backup
+.claude/.credentials.json
+.claude/backups/
+.claude/file-history/
+.claude/history.jsonl
+.claude/cache/
 
 # Application data and caches
 AppData/
