@@ -1,0 +1,59 @@
+# Windows registry / system files
+NTUSER.DAT
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+
+# Credentials and sensitive config
+.aws/
+.claude.json
+.claude.json.backup
+
+# Application data and caches
+AppData/
+.cache/
+.p2/
+.m2/
+.gradle/
+.eclipse/
+.matplotlib/
+.keras/
+.idlerc/
+.tooling/
+.thinkorswim/
+.cisco/
+.pgptool/
+
+# Personal / large system directories
+OneDrive/
+Downloads/
+Music/
+Videos/
+3D Objects/
+Contacts/
+Favorites/
+Links/
+MicrosoftEdgeBackups/
+Saved Games/
+Searches/
+ansel/
+
+# Windows symlinked system dirs (cause permission errors with git)
+Application Data
+Cookies
+Local Settings
+My Documents
+NetHood
+PrintHood
+Recent
+SendTo
+Start Menu
+Templates
+
+# Logs
+*.log
+
+# Eclipse build output
+eclipse-workspace/**/build/
+eclipse-workspace/**/output/
+eclipse-workspace/**/*.class
